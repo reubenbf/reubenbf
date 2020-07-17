@@ -17,5 +17,5 @@
 
 ## Socials
 
-<a href=https://www.linkedin.com/in/reuben-bernard-francis/><img src="images/linkedin.png" width=20px></a>|<a href=https://www.facebook.com/reuben.francis><img src="images/facebook.webp" width=20px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="images/instagram.png" width=20px></a>
+<a href=https://www.linkedin.com/in/reuben-bernard-francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=20px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=20px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=20px></a>
 -:|:-:|:-
