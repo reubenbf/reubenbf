@@ -14,4 +14,7 @@
   </samp>
 </p>
 
-[[[https://i2.wp.com/www.breakthroughmarketingsecrets.com/wp-content/uploads/2018/01/linkedin-logo-copy.png|width=25x]]](https://www.linkedin.com/in/reuben-bernard-francis/)
+
+## Socials
+[[[/images/linkedin.png|width=25x]]](https://www.linkedin.com/in/reuben-bernard-francis/)|[[[/images/facebook.webp|width=25x]]](https://www.facebook.com/reuben.francis)|[[[/images/instagram.png|width=25x]]](https://www.instagram.com/reuben.francis)
+-:|:-:|:-
