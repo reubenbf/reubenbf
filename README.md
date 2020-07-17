@@ -16,5 +16,5 @@
 
 
 ## Socials
-[![](https://i2.wp.com/www.breakthroughmarketingsecrets.com/wp-content/uploads/2018/01/linkedin-logo-copy.png =25x)](https://www.linkedin.com/in/reuben-bernard-francis/)|[![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/214px-Facebook_f_logo_%282019%29.svg.png =25x)](https://www.facebook.com/reuben.francis)| [![](https://www.omnicoreagency.com/wp-content/uploads/2018/09/Instagram-Logo-PNG-2018.png =25x)](https://www.instagram.com/reuben.francis/)|
+![[](https://i2.wp.com/www.breakthroughmarketingsecrets.com/wp-content/uploads/2018/01/linkedin-logo-copy.png =25x)](https://www.linkedin.com/in/reuben-bernard-francis/)|[![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/214px-Facebook_f_logo_%282019%29.svg.png =25x)](https://www.facebook.com/reuben.francis)| [![](https://www.omnicoreagency.com/wp-content/uploads/2018/09/Instagram-Logo-PNG-2018.png =25x)](https://www.instagram.com/reuben.francis/)|
 -:|:-:|:-
