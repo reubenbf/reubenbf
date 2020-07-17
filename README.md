@@ -13,3 +13,5 @@
     href="https://reubenbf.github.io/Reuben_Portfolio/">Here</a>
   </samp>
 </p>
+
+[[[https://i2.wp.com/www.breakthroughmarketingsecrets.com/wp-content/uploads/2018/01/linkedin-logo-copy.png|width=25x]]](https://www.linkedin.com/in/reuben-bernard-francis/)
