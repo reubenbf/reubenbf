@@ -16,5 +16,5 @@
 
 
 ## Socials
-[[[/images/linkedin.png|width=25x]]](https://www.linkedin.com/in/reuben-bernard-francis/)|[[[/images/facebook.webp|width=25x]]](https://www.facebook.com/reuben.francis)|[[[/images/instagram.png|width=25x]]](https://www.instagram.com/reuben.francis)
+[[[/images/linkedin.png|width=25px]]](https://www.linkedin.com/in/reuben-bernard-francis/)|[[[/images/facebook.webp|width=25px]]](https://www.facebook.com/reuben.francis)|[[[/images/instagram.png|width=25px]]](https://www.instagram.com/reuben.francis)
 -:|:-:|:-
