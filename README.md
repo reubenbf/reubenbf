@@ -10,7 +10,7 @@
     <img src="https://i.imgur.com/SrExpSG.gif" width="240px" align="center">
     <br>
     <br> Check My Portfolio <a 
-    href="https://reubenbf.github.io/Reuben_Portfolio/">Here</a>
+    href="https://reubenbf.github.io">Here</a>
   </samp>
 </p>
 
