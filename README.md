@@ -11,11 +11,18 @@
     <br>
     <br> Check My Portfolio <a 
     href="https://reubenbf.github.io">Here</a>
+    <br>
   </samp>
 </p>
 
 
+
 ## Socials
 
-<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=20px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=20px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=20px></a>
+<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=25px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=25px></a>
 -:|:-:|:-
+
+#### Miscellaneous
+
+<a href=https://rateyourmusic.com/~reubenfrancis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/rym.png" width=20px></a>|<a href=https://www.last.fm/user/reuben_francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/lastfm.png" width=20px></a>|<a href=https://letterboxd.com/reuben_francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/letterboxd.png" width=20px></a>|<a href=https://open.spotify.com/user/12186141937><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/spotify.png" width=20px></a>|<a href=https://bandcamp.com/reubenbf><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/bandcamp.png" width=20px></a>
+-:|:-:|:-:|:-:|:-
