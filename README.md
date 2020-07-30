@@ -22,6 +22,9 @@
 <a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=25px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=25px></a>|<a href=http://reubenbf.github.io/Reuben_Portfolio/><img src="https://img.shields.io/badge/PORTFOLIO-lightgrey.svg"></a>
 -:|:-:|:-:|:-
 
+ [![LinkedIn](images/linkedin.png =25x)](https://www.linkedin.com/in/reubenbf/)|[![Facebook](images/facebook.webp =25x)](https://www.facebook.com/reuben.francis)|[![Instagram](images/instagram.png =25x)](https://www.instagram.com/reuben.francis/)|  [![](https://img.shields.io/badge/PORTFOLIO-lightgrey.svg)](http://reubenbf.github.io/Reuben_Portfolio/)
+-:|:-:|:-:|:-
+
 <p align="center">
 	<h4 align="center">Miscellaneous</h4>
 </p>
