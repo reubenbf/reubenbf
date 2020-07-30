@@ -10,7 +10,7 @@
 		<br>Currently interested in GitHub Actions
 		<br>and Custom Model Building/Deployment
 		<br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=reubenbf&show_icons=true&hide_border=true&theme=dark&count_private=true">
+		<img src="https://github-readme-stats.vercel.app/api?username=reubenbf&show_icons=true&hide_border=true&theme=dark&count_private=true" width="400px">
 		<br>
   </samp>
 </p>
