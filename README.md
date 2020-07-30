@@ -18,8 +18,8 @@
   <h2 align="center">Socials</h2>
 </p>
 
- [![](/images/linkedin.png =25x)](https://www.linkedin.com/in/reubenbf/)|[![](images/facebook.webp =25x)](https://www.facebook.com/reuben.francis)|[![](images/instagram.png =25x)](https://www.instagram.com/reuben.francis/)|  [![](https://img.shields.io/badge/PORTFOLIO-lightgrey.svg)](http://reubenbf.github.io/Reuben_Portfolio/)
--:|:-:|:-:|:-
+<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=25px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=25px></a>
+-:|:-:|:-
 
 <p align="center">
   <h4 align="center">Miscellaneous</h4>
