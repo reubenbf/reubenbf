@@ -19,7 +19,7 @@
 	<h2 align="center">Socials</h2>
 </p>
 
-<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=25px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=25px></a>|<a href=http://reubenbf.github.io/Reuben_Portfolio/><img src="https://img.shields.io/badge/PORTFOLIO-lightgrey.svg"></a>
+<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>|<a href=https://www.facebook.com/reuben.francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/facebook.webp" width=25px></a>|<a href=https://www.instagram.com/reuben.francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/instagram.png" width=25px></a>|<a href=http://reubenbf.github.io/><img src="https://img.shields.io/badge/PORTFOLIO-lightgrey.svg"></a>
 -:|:-:|:-:|:-
 
 
