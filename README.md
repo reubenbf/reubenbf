@@ -5,15 +5,25 @@
 <p align="center">
 	<img src="https://i.imgur.com/SrExpSG.gif" width="240px">
 	<samp>
-		<br>Data Science graduate student from <a href="https://www.mq.edu.au/">Macquarie University</a>
+		<br>Working in data at <b>Domain Group</b>, Sydney 🇦🇺
+		<br>Master of Data Science, <a href="https://www.mq.edu.au/">Macquarie University</a>
 		<br>📊 Big on Data Analysis and Visualization 📊
-		<br>Currently interested in GitHub Actions
-		<br>and Custom Model Building/Deployment
+		<br>Into computer vision, small ML apps and automating things with GitHub Actions
 		<br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=reubenbf&show_icons=true&hide_border=true&theme=dark&count_private=true" width="400px">
-		<br>
-  </samp>
+	</samp>
 </p>
+
+<p align="center">
+	<h2 align="center">Projects</h2>
+</p>
+
+| Project | What it does |
+| :-- | :-- |
+| [simple-face-detector](https://github.com/reubenbf/simple-face-detector) | Face detection web app with OpenCV Haar cascades and Streamlit |
+| [simple-vgg-classifier](https://github.com/reubenbf/simple-vgg-classifier) | Image classifier on a pretrained VGG16 (TensorFlow/Keras) with a Streamlit front end |
+| [quick-yolov4-tiny](https://github.com/reubenbf/quick-yolov4-tiny) | Train YOLOv4-tiny on your own custom dataset |
+| [personal-music-activity](https://github.com/reubenbf/personal-music-activity) | Behavioural analysis of my listening history from last.fm and RateYourMusic |
+| [nowplay-box](https://github.com/reubenbf/nowplay-box) | GitHub Action that pins your Spotify now-playing album to a Gist |
 
 <p align="center">
 	<h2 align="center">Socials</h2>
@@ -29,4 +39,3 @@
 
 <a href=https://rateyourmusic.com/~reubenfrancis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/rym.png" width=20px></a>|<a href=https://www.last.fm/user/reuben_francis><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/lastfm.png" width=20px></a>|<a href=https://letterboxd.com/reuben_francis/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/letterboxd.png" width=20px></a>|<a href=https://open.spotify.com/user/12186141937><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/spotify.png" width=20px></a>|<a href=https://bandcamp.com/reubenbf><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/bandcamp.png" width=20px></a>
 -:|:-:|:-:|:-:|:-
-
